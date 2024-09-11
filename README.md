@@ -1,7 +1,3 @@
-Absolutely! Here’s a polished and engaging README designed to catch the attention of recruiters and potential collaborators:
-
----
-
 # 🍏 Apple Website
 
 Welcome to the Apple Website project! This is not just a tribute to Apple’s iconic design but a testament to my skills in modern web development. With a focus on sleek aesthetics, seamless interactions, and responsive design, this project highlights my expertise in creating high-quality, user-centered web applications.
@@ -97,6 +93,4 @@ I’m open to collaboration and feedback! Reach out to me via:
 - **Twitter**: [@Sneha22802148](https://twitter.com/Sneha22802148)
 - **LinkedIn**: [Sneha Deb Barma](https://linkedin.com/in/sneha-deb-barma)
 
----
 
-This version emphasizes your skills and the unique aspects of your project, making it more appealing to recruiters and potential collaborators. Feel free to tweak any details to better suit your style and goals!
