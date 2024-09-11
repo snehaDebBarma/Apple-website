@@ -93,4 +93,7 @@ I’m open to collaboration and feedback! Reach out to me via:
 - **Twitter**: [@Sneha22802148](https://twitter.com/Sneha22802148)
 - **LinkedIn**: [Sneha Deb Barma](https://linkedin.com/in/sneha-deb-barma)
 
+- 
+![image](https://github.com/user-attachments/assets/3d7ce612-1f16-4259-a672-baa01a38a98d)
+
 
